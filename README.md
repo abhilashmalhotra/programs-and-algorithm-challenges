@@ -1,21 +1,20 @@
-# programs-and-algorithm-challenges
+# Programs and algorithm challenges
 
-/***
+
 <table class="tg">
   <tr>
-    <th class="tg-yw4l"><b>Animals</b></th>
-    <th class="tg-yw4l"><b>Sports</b></th>
-    <th class="tg-yw4l"><b>Fruits</b></th>
+    <th class="tg-yw4l" colspan="2"><b>Codewars challenges</b></th>
   </tr>
   <tr>
-    <td class="tg-yw4l">Cat</td>
-    <td class="tg-yw4l">Soccer</td>
-    <td class="tg-yw4l">Apple</td>
+    <th class="tg-yw4l">01</th>
+    <td class="tg-yw4l">
+      <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/codewars/reversed-string.js">Reversed String</a>
+    </td>
   </tr>
   <tr>
-    <td class="tg-yw4l">Dog</td>
-    <td class="tg-yw4l">Basketball</td>
-    <td class="tg-yw4l">Orange</td>
+    <th class="tg-yw4l">02</th>
+    <td class="tg-yw4l">
+      <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/codewars/remove-first-last-character.js">Remove First and Last Character</a>
+    </td>
   </tr>
 </table>
-***/
