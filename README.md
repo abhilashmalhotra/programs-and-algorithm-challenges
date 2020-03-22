@@ -35,4 +35,10 @@
       <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/codewars/string-to-number.js" target="_blank">Convert a String to a Number!</a>
     </td>
   </tr>
+  <tr>
+    <th class="tg-yw4l">06</th>
+    <td class="tg-yw4l">
+      <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/codewars/print-number-with-second-delay.js" target="_blank">Print number with delay of 1 second</a>
+    </td>
+  </tr>
 </table>
