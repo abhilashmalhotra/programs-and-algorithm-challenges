@@ -18,9 +18,15 @@
     </td>
   </tr>
   <tr>
-    <th class="tg-yw4l">02</th>
+    <th class="tg-yw4l">03</th>
     <td class="tg-yw4l">
       <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/codewars/remove-string-space.js" target="_blank">Remove String Spaces</a>
+    </td>
+  </tr>
+  <tr>
+    <th class="tg-yw4l">04</th>
+    <td class="tg-yw4l">
+      <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/codewars/alternating-case.js" target="_blank">altERnaTIng cAsE <=> ALTerNAtiNG CaSe</a>
     </td>
   </tr>
 </table>
