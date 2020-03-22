@@ -29,4 +29,10 @@
       <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/codewars/alternating-case.js" target="_blank">altERnaTIng cAsE <=> ALTerNAtiNG CaSe</a>
     </td>
   </tr>
+  <tr>
+    <th class="tg-yw4l">05</th>
+    <td class="tg-yw4l">
+      <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/codewars/string-to-number.js" target="_blank">Convert a String to a Number!</a>
+    </td>
+  </tr>
 </table>
