@@ -1,6 +1,7 @@
 # Programs and algorithm challenges
 
 
+
 <table class="tg">
   <tr>
     <th class="tg-yw4l" colspan="2"><b>Codewars challenges</b></th>
@@ -41,4 +42,41 @@
       <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/codewars/print-number-with-second-delay.js" target="_blank">Print number with delay of 1 second</a>
     </td>
   </tr>
+</table>
+
+<table class="tg">
+  <tr>
+    <th class="tg-yw4l" colspan="2"><b>Data Structure using Javascript</b></th>
+  </tr>
+  <tr>
+    <th class="tg-yw4l">01</th>
+    <td class="tg-yw4l">
+      <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/data-structure/linked-list.js" target="_blank">Linked List</a>
+    </td>
+  </tr>
+  <tr>
+    <th class="tg-yw4l">02</th>
+    <td class="tg-yw4l">
+      <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/data-structure/stack-linked-list.js" target="_blank">Stack using Linked List</a>
+    </td>
+  </tr>
+  <tr>
+    <th class="tg-yw4l">03</th>
+    <td class="tg-yw4l">
+      <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/data-structure/stack-array.js" target="_blank">Stack using Array</a>
+    </td>
+  </tr>
+  <tr>
+    <th class="tg-yw4l">04</th>
+    <td class="tg-yw4l">
+      <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/data-structure/queues.js" target="_blank">Queues</a>
+    </td>
+  </tr>
+  <tr>
+    <th class="tg-yw4l">05</th>
+    <td class="tg-yw4l">
+      <a href="https://github.com/abhilashmalhotra/programs-and-algorithm-challenges/blob/master/data-structure/binary-search-tree.js" target="_blank">Binary Search Tree</a>
+    </td>
+  </tr>
+  
 </table>
